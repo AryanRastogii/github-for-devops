@@ -1,6 +1,6 @@
 def func():
 
-    secret_key = "my_secret"
+    secret_key = "good bye"
     a = 5
     return a
 
