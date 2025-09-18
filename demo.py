@@ -1,6 +1,6 @@
 def func():
 
-    password = "manu@2004"
+    secret_key = "my_secret"
     a = 5
     return a
 
