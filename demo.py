@@ -1,7 +1,7 @@
 def func():
-    a = 5
-    b= 10
 
-    return d
+    a = 5
+    return a
+
 
 func()
